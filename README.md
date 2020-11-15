@@ -1,5 +1,5 @@
 # ICS4U1
-Course Files for ICS 4U1
+Course Files for ICS 4U1. The course is being reworked to place Object-Oriented Programming near the beginning of the course.
 
 # Lessons
 Unit by Unit files written for Java Lessons
